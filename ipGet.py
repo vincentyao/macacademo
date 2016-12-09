@@ -4,7 +4,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-init_url='get proxy_ip messages website'
+init_url='http://www.data5u.com/'
 
 headers={"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36"}
 
